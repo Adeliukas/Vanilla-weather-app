@@ -1,3 +1,8 @@
 h1 {
-  color: rgb(0, 225, 255);
+  color: rgb(5, 16, 18);
+}
+.weather-app {
+  border-style: solid;
+  border-width: 2px;
+  border-color: darkblue;
 }
